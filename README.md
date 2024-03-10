@@ -1,5 +1,7 @@
 # Rup-Ammunation
 
+![Rup-Ammunation](https://media.discordapp.net/attachments/1043860724419670026/1216271149839679558/image.png?ex=65ffc7c7&is=65ed52c7&hm=2731785e564b7880cba5916a8574868c89209775a05c701f858337e6113ef30b&=&format=webp&quality=lossless&width=550&height=309)
+
 **Description:**  
 Rup-Ammunation is a free ammunition script designed for the weapon wheel.
 
