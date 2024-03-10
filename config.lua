@@ -3,7 +3,7 @@ config = {
 	menuWidth = 80,
 
 	customMenuEnabled = true,
-	menuImage = "https://i.imgur.com/YHgZX1E.png",
+	menuImage = "https://i.ibb.co/gD17Kt9/YHgZX1E.png",
 
     debug = true,
 
