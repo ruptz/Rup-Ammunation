@@ -75,4 +75,4 @@ Citizen.CreateThread(function()
 	end
 end)
 
-print("F5-Ammunation Started")
+print("Rup-Ammunation Started")
